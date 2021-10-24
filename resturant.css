@@ -21,7 +21,7 @@ p{
     position: relative;
     width: 100%;
     height:700px;
-    background-image: url(res1.jpg)
+    background-image: url("../images/res1.jpg")
 }
 .child1{
     width: 238px;
@@ -55,7 +55,7 @@ color: rgb(253, 76, 11);
 font-size: 150%;
 }
 .container1{
-    background-image: url(im\ 5.jpg);
+    background-image: url("../images/im\5");
 }
 .row{
     margin-left: 2%;
@@ -64,7 +64,7 @@ font-size: 150%;
     position: relative;
     width: 100%;
     height: 350px;
-    background-image: url(indoor.jpg);
+    background-image: url("../images/indoor.jpg");
 background-size: cover;
 }
 .child4{
